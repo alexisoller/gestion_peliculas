@@ -1,7 +1,4 @@
 This program works reading a xml file like this
-
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <peliculas>
 	<peli id ="1">
@@ -16,7 +13,6 @@ This program works reading a xml file like this
 		<genero>Ciencia ficcion</genero>	
 		<sinopsis>Existen dos realidades......</sinopsis>
 	</peli>
-
 </peliculas>
 
 
